@@ -1,10 +1,8 @@
 # alx-low_level_programming
-#!/bin/bash
-~/c/$ cat main.c
-#include<stdio.
-h>
-/** 
-Bash: /add: Is a directory
-> gcc '-E'$CFILE>c
-> gcc '-E'$CFILE-o c
-000 ~/c//×$ cat main.c
+# 0-preprocessor
+# 1-compiler
+# 2-assembler
+# 3-name
+# 4-hello, puts 
+# 5-hello, print
+# 6-Size is not grandeur, and territory does not make a nation
